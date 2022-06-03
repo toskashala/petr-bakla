@@ -393,6 +393,7 @@ footer {
 @media only screen and (max-width: 590px){
     #intro p{
         font-size: 15vh;
+        padding-top: 20%;
     }
 }
 
